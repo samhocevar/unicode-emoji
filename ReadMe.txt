@@ -1,16 +1,21 @@
-This directory contains data files for UTS #51 Unicode Emoji, Version 12.1
+# Unicode Emoji
+# © 2020 Unicode®, Inc.
+# Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+# For terms of use, see http://www.unicode.org/terms_of_use.html
 
-This is a dot release that has some additional emoji ZWJ sequences, but is otherwise unchanged.
+This directory contains data files for Unicode Emoji, Version 13.0
 
-Version 12.1 is a data-only release, and does not make changes in UTS #51. Thus 
-http://www.unicode.org/reports/tr51/tr51-16.html is still the corresponding specification.
+Public/emoji/13.0/
 
-For the 12.1 versions of the charts, see:
-http://unicode.org/emoji/charts-12.1/
+  emoji-sequences.txt
+  emoji-zwj-sequences.txt
+  emoji-test.txt
 
-For the 12.1 versions of the data, see:
-http://unicode.org/Public/emoji/12.1/emoji-data.txt
-http://unicode.org/Public/emoji/12.1/emoji-sequences.txt
-http://unicode.org/Public/emoji/12.1/emoji-variation-sequences.txt
-http://unicode.org/Public/emoji/12.1/emoji-zwj-sequences.txt
-http://unicode.org/Public/emoji/12.1/emoji-test.txt
+The following related files are found in the UCD for Version 13.0
+
+Public/13.0.0/ucd/emoji/
+
+  emoji-data.txt
+  emoji-variation-sequences.txt
+
+For documentation, see UTS #51 Unicode Emoji, Version 13.0
